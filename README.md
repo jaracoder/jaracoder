@@ -7,6 +7,6 @@
 </div>
 
 ## Encuéntrame en la web 🌎: 
-- Entrando en mi blog <a target="_blank" href="//jaracoder.com">jaracoder.com</a> ✍
-- Conectando conmigo por <a target="_blank" href="//www.linkedin.com/in/jaracoder/">LinkedIn</a> 💼
-- En redes sociales <a target="_blank" href="//facebook.com/jaracoder">Facebook</a> o <a target="_blank" href="//twitter.com/jaracoder">Twitter</a> 🏓
+- Entrando en mi blog <a href="//jaracoder.com">jaracoder.com</a> ✍
+- Conectando conmigo por <a href="//www.linkedin.com/in/jaracoder/">LinkedIn</a> 💼
+- En redes sociales <a href="//facebook.com/jaracoder">Facebook</a> o <a href="//instagram.com/jaracoder">Instagram</a> 🏓
