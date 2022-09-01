@@ -1,21 +1,12 @@
 <div>
-  <h1>Hola, Soy Juan! 👋</h1>
-  <blockquote>
-    <p>💻 Senior Full Stack Developer</p>
-  </blockquote>
+  <h1>Hola, soy Juan 👋👨‍💻</h1>
+ 
+ <p>Soy ingeniero de software apasionado por contribuir a desarrollar tecnología que ayude a mejorar la vida de las personas. 
+ Actualmente trabajo en Hiberus en el área de la sanidad como Senior Full Stack Developer. Algunas tecnologías con las que disfruto trabajando incluyen .NET, Java y Android. También me encantan otras ramas de las TIC como la seguridad informática, la administración de sistemas o la optimización de motores de búsqueda. Anteriormente he trabajado en otras áreas como en el sector bancario, textil, en la traducción de textos y de freelance a tiempo completo.</p>
+ 
 </div>
 
-<!--
-**jaracoder/jaracoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Encuéntrame en la web 🌎: 
+- Entrando en mi blog <a target="_blank" href="//jaracoder.com">jaracoder.com</a> ✍
+- Conectando conmigo por <a target="_blank" href="//www.linkedin.com/in/jaracoder/">LinkedIn</a> 💼
+- En redes sociales <a target="_blank" href="//facebook.com/jaracoder">Facebook</a> o <a target="_blank" href="//twitter.com/jaracoder">Twitter</a> 🏓
