@@ -5,7 +5,7 @@
  
 </div>
 
-## Encuéntrame en la web 🌎: 
+## Encuéntrame en la web 🌎:
 - En mi blog <a href="//jaracoder.com">jaracoder.com</a> ✍
 - Conectando por <a href="//www.linkedin.com/in/jaracoder/">LinkedIn</a> 💼
 - En <a href="//facebook.com/jaracoder">Facebook</a> o <a href="//instagram.com/jaracoder">Instagram</a> 🏓
